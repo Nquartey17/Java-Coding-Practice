@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Armstrong Number/Armstrong Number.iml" filepath="$PROJECT_DIR$/Armstrong Number/Armstrong Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Compressed String/Compressed String.iml" filepath="$PROJECT_DIR$/Compressed String/Compressed String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecimalToBinary/DecimalToBinary.iml" filepath="$PROJECT_DIR$/DecimalToBinary/DecimalToBinary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonacci Triangle/Fibonacci Triangle.iml" filepath="$PROJECT_DIR$/Fibonacci Triangle/Fibonacci Triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FibonacciNumber/FibonacciNumber.iml" filepath="$PROJECT_DIR$/FibonacciNumber/FibonacciNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HighestCommonFactor/HighestCommonFactor.iml" filepath="$PROJECT_DIR$/HighestCommonFactor/HighestCommonFactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leap Year/Leap Year.iml" filepath="$PROJECT_DIR$/Leap Year/Leap Year.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeastCommonFactor/LeastCommonFactor.iml" filepath="$PROJECT_DIR$/LeastCommonFactor/LeastCommonFactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PalidromeInt/PalidromeInt.iml" filepath="$PROJECT_DIR$/PalidromeInt/PalidromeInt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindrome/Palindrome.iml" filepath="$PROJECT_DIR$/Palindrome/Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Practice Coding.iml" filepath="$PROJECT_DIR$/.idea/Practice Coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeNumber/PrimeNumber.iml" filepath="$PROJECT_DIR$/PrimeNumber/PrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reverse Digit/Reverse Digit.iml" filepath="$PROJECT_DIR$/Reverse Digit/Reverse Digit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseString/ReverseString.iml" filepath="$PROJECT_DIR$/ReverseString/ReverseString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumOfDigits/SumOfDigits.iml" filepath="$PROJECT_DIR$/SumOfDigits/SumOfDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwapNums/SwapNums.iml" filepath="$PROJECT_DIR$/SwapNums/SwapNums.iml" />
+    </modules>
+  </component>
+</project>
